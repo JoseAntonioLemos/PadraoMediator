@@ -26,3 +26,6 @@ A política de comunicações está centralizada no mediador e pode ser alterada
 Devantagem os mediadores tendem a se tornar mais complexos e as vezes de difícil manutenção.
 
 
+#Mediator Diagram de Classes
+
+        
