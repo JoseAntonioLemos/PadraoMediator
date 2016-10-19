@@ -24,8 +24,4 @@ Elimina o relacionamento de muitos para muitos
 A política de comunicações está centralizada no mediador e pode ser alterada sem mexer nos colaboradores.
 
 Devantagem os mediadores tendem a se tornar mais complexos e as vezes de difícil manutenção.
-
-
-#Mediator Diagram de Classes
-
         
