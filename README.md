@@ -13,7 +13,7 @@ E relacionamentos muitos para muitos.
 
 Ou se você que trocar informações ou mensagens entre diversas plataformas de software, como Androide, IOS, Symbian, WindowsPhone, cada uma tem maneira diferente de trocar mensagens. 
 
-Ai teria um problema de criar vários métodos para cada plataforma e se fosse necessário incluir uma nova plataforma tipo a BlackBerry, precisaria criar todos os métodos de comunicação desse novo OS em todas as plataformas existentes, e incluir também na nova plataforma os métodos das outras para poderem se comunicar com ela.
+Ai teríamos um problema de criar vários métodos para cada plataforma e se fosse necessário incluir uma nova plataforma tipo a BlackBerry, precisaria criar todos os métodos de comunicação desse novo OS em todas as plataformas existentes, e incluir também na nova plataforma os métodos das outras para poderem se comunicar com ela.
 
 Com o padrão chamado de Mediator, você pode resolver o problema de comunicação entre páginas e sistemas diferentes para poderem se comunicar entre eles, sem haver duplicação de códigos e relacionamentos de muitos para muitos.
 
