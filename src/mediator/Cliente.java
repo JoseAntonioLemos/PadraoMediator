@@ -19,7 +19,7 @@ public class Cliente {
 		
 		symbian.enviarMensagem("Oi, eu sou um Symbian!");
 		System.out.println("=========");
-		android.enviarMensagem("Oi Symbian! Eu sou um Android!");
+		android.enviarMensagem("Oi a todos, Eu sou um Android!");
 		System.out.println("=========");
 		ios.enviarMensagem("Olá todos, sou um iOs!");
 	}

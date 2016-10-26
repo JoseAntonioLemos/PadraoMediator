@@ -3,13 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/Mediator/src/mediator/Cliente.java</file>
-            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/Mediator/src/mediator/AndroidColleague.java</file>
-            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/Mediator/src/mediator/Mediator.java</file>
-            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/Mediator/src/mediator/IOSColleague.java</file>
-            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/Mediator/src/mediator/MensagemMediator.java</file>
-            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/Mediator/src/mediator/SymbianColleague.java</file>
-            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/Mediator/src/mediator/Colleague.java</file>
+            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/PadraoMediator/src/mediator/Mediator.java</file>
+            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/PadraoMediator/src/mediator/Colleague.java</file>
+            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/PadraoMediator/src/mediator/AndroidColleague.java</file>
+            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/PadraoMediator/src/mediator/MensagemMediator.java</file>
+            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/PadraoMediator/src/mediator/IOSColleague.java</file>
+            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/PadraoMediator/src/mediator/Cliente.java</file>
+            <file>file:/C:/Users/QBEX/Documents/NetBeansProjects/PadraoMediator/src/mediator/SymbianColleague.java</file>
         </group>
     </open-files>
 </project-private>

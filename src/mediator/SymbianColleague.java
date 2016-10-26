@@ -1,3 +1,4 @@
+/* A classe a seguir, representa a plataforma Symbian */
 package mediator;
 
 public class SymbianColleague extends Colleague {
@@ -12,3 +13,4 @@ public class SymbianColleague extends Colleague {
 	}
 
 }
+/* As classes Colleague concretas também são bem simples, apenas definem como a mensagem será recebida. */

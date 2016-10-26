@@ -1,3 +1,5 @@
+/* A classe a seguir, representa a plataforma iOS: */
+
 package mediator;
 
 public class IOSColleague extends Colleague {
@@ -12,3 +14,4 @@ public class IOSColleague extends Colleague {
 	}
 
 }
+/* As classes Colleague concretas também são bem simples, apenas definem como a mensagem será recebida. */

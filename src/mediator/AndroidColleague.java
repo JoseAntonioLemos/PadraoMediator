@@ -1,3 +1,5 @@
+/* A classe a seguir, representa a plataforma Android  */
+
 package mediator;
 
 public class AndroidColleague extends Colleague {
@@ -12,3 +14,4 @@ public class AndroidColleague extends Colleague {
 	}
 
 }
+/* As classes Colleague concretas também são bem simples, apenas definem como a mensagem será recebida. */
